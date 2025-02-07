@@ -56,3 +56,8 @@ LumePad is a lightweight yet feature-rich text and code editor built with **Qt**
 
 ---
 
+## 🏆 Credits
+
+LumePad is developed by **SomiSrbija**.  
+
+---
