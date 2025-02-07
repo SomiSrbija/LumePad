@@ -20,18 +20,39 @@ LumePad is a lightweight yet feature-rich text and code editor built with **Qt**
 ✅ **Full Screen Mode** – Maximize workspace  
 ✅ **Undo/Redo, Cut/Copy/Paste** – Standard editing functionalities  
 
+
 ---
 
-## 📥 Installation
+## 🎨 UI Screenshots
 
-### Prerequisites:
-- **Qt** (Qt5 or Qt6)
-- **CMake** (or `qmake` for Qt projects)
-- **C++ Compiler (GCC/Clang/MSVC)**
+![LumePad UI](screenshots/lumepad_ui.png)
 
-### Build Instructions:
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/lumepad.git
-   cd lumepad
+## 🛠️ Usage
+
+- **Opening Files:** `File -> Open`
+- **Saving Files:** `File -> Save / Save As`
+- **Toggling Line Numbers:** `View -> Toggle Line Numbers`
+- **Finding Text:** `Edit -> Find`
+- **Replacing Text:** `Edit -> Replace`
+- **Changing Font:** `View -> Change Font`
+- **Zooming In/Out:** `View -> Zoom In / Zoom Out`
+- **Full-Screen Mode:** `View -> Toggle Full Screen`
+- **Go to Specific Line:** `Edit -> Go to Line`
+- **Toggling Word Wrap:** `View -> Toggle Word Wrap`
+- **Opening Recent Files:** `File -> Recent Files`
+- **Closing Tabs:** `File -> Close Tab`
+
+---
+
+## ✨ How to Contribute
+
+1. **Fork** this repository.
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Make your changes** and commit (`git commit -m "Added feature X"`).
+4. **Push to GitHub** (`git push origin feature-branch`).
+5. **Submit a Pull Request** 🚀.
+
+---
+
