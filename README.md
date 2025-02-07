@@ -1,6 +1,5 @@
 # LumePad - A Lightweight Code Editor
 
-![LumePad Logo](icons/lumepad_logo.png)
 
 LumePad is a lightweight yet feature-rich text and code editor built with **Qt**. It offers a tabbed interface, syntax highlighting, and essential features for efficient coding.
 
@@ -20,12 +19,11 @@ LumePad is a lightweight yet feature-rich text and code editor built with **Qt**
 ✅ **Full Screen Mode** – Maximize workspace  
 ✅ **Undo/Redo, Cut/Copy/Paste** – Standard editing functionalities  
 
-
 ---
 
-## 🎨 UI Screenshots
+## 📜 License
 
-![LumePad UI](screenshots/lumepad_ui.png)
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
