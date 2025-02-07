@@ -1,1 +1,1 @@
-"# LumePad" 
+## LumePad - A Lightweight Code Editor
