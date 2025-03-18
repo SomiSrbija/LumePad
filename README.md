@@ -1,3 +1,6 @@
+⚠️ **This project is no longer maintained.** ⚠️
+
+
 # LumePad - A Lightweight Code Editor
 
 
